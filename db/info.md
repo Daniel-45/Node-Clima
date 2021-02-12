@@ -1,0 +1,1 @@
+En este directorio se almacenan las consultas de las ciudades realizadas en un fichero **.json** para tener un historial de las últimas seis consultas realizadas.
